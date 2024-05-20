@@ -10,7 +10,7 @@ Durante esses anos na área de TI, passei por diversas experiências na área de
 
 # Contatos 
 - GitHub: [***GitHub***](https://github.com/guilherme0066)
-- Linkedin: [***Linkedin***](www.linkedin.com/in/guilherme-cursino-679410213)
+- Linkedin: [***Linkedin***](www.linkedin.com/in/guilherme-cursino-679410213/)
 
 
 # Meus Principais Conhecimentos
