@@ -9,8 +9,8 @@ Durante esses anos na área de TI, passei por diversas experiências na área de
 <img src="/Imagens/FotoEduardo.jpeg">
 
 # Contatos 
-- GitHub: [***GitHub***](https://github.com/EduardoPereiraCarvalho)
-- Linkedin: [***Linkedin***](https://www.linkedin.com/in/eduardo-carvalho-0a1411213/)
+- GitHub: [***GitHub***](https://github.com/guilherme0066)
+- Linkedin: [***Linkedin***](www.linkedin.com/in/guilherme-cursino-679410213)
 
 
 # Meus Principais Conhecimentos
