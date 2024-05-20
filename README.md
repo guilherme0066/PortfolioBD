@@ -106,10 +106,8 @@ As minhas contribuições no segundo API foram focadas mais na parte do back-end
 * Trabalho em equipe:
 Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes na equipe, além de ainda ter sido realizado de forma remota por conta da pandemia, o trabalho em equipe foi um grande desafio, mas consegui desenvolver essa parte que tinha problemas. Graças aos professores, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
 
-* Liderança:
-Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos os problemas que surgiram durante as sprints, como a comunicação da equipe e a entrega das tarefas, além de outras tarefas sendo Scrum Master. Mas, graças à ajuda do professor Walmir e à experiência do meu colega Felipe Augusto, consegui gerir todos os problemas.
 
-# 2021 - 1/ Terceiro Semestre
+# 2022 - 1/ Terceiro Semestre
 
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
@@ -144,4 +142,46 @@ As minhas contribuições no terceiro API foram focadas mais na parte do Front-e
 # Soft Skills 
 
 * Organização, Controle de tempo e Tarefas:
-Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API, bem como a projetos/tarefas de outras matérias do curso. Foi necessário procurar ajuda dos professores e alunos de outros semestres para desenvolver métodos e aprender a ter controle do tempo para ser eficaz nas minhas atividades e terminar tudo em seu devido tempo.
+Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API, bem como a projetos/tarefas de outras matérias do curso. 
+
+# 2023 - 2/ Quarto Semestre
+
+<h3 align="center">Projeto desenvolvido por:</h3>
+<p align="center">
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
+</p>  
+
+<h2 align="center">Jaia</h2>
+
+Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-API/tree/main)
+
+<h3> :dart: Objetivos do Projeto</h3>
+<p>Um Sistema desenvolvido para controlar o estado de um imóvel em, com os resultados exportados num Laudo de Inspeção Predial, além de gerenciar manutenções preventivas e corretivas de não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos.</p>
+
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,typescript,discord,mysql" />
+  </a>
+</p>
+
+
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS E TYPESCRIPT</p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: JAVA, SPRINGBOOT E MAVEN</p>
+<p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: ORACLE CLOUD(AWS)</p>
+<p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
+
+# Contribuições Pessoais
+As minhas contribuições no quarto API foram focadas mais na parte do Front-end, onde desenvolvi parte das telas do projeto e o cadastro para o controle de contas, tanto na estilização quanto na criação dos componentes, utilizando as linguagens Vue.js e CSS.
+
+# Hard Skills
+
+- Vue.js: Sei fazer com auxílio de consultas a sites, documentações, etc
+- Typescript: Sei fazer com auxílio de consultas a sites, documentações, etc
+- HTML: Sei fazer com autonomia
+- CSS: Sei fazer com autonomia
+
+# Soft Skills 
+
+* Organização, Controle de tempo e Tarefas:
+Um dos grandes problemas que precisei resolver no quarto semestre foi a questão da organização em relação a tarefas relacionadas ao API devido a troca de curso que realizei, vindo do curso de ADS do período da manhã, bem como a projetos/tarefas de outras matérias do curso.
