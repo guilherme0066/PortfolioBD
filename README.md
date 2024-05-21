@@ -6,7 +6,7 @@ Me chamo Guilherme, tenho 21 anos e atualmente estou cursando banco de Dados na 
 
 Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me aprofundando mais com a parte de Front-end, onde busco adquirir mais conhecimento.
 
-<img src="/Imagens/FotoEduardo.jpeg">
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/FotoGuilherme.png">
 
 # Contatos 
 - GitHub: [***GitHub***](https://github.com/guilherme0066)
@@ -45,7 +45,7 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint1.png"/>
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent1.png"/>
 <hr>
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS, HTML e JAVASCRIPT</p>
@@ -85,7 +85,7 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint2.png"/>
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent2.png"/>
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: PYTHON e DJANGO</p>
@@ -122,8 +122,7 @@ Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint3.png" width="800"/>
-
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent3.png" width="800"/>
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: JAVA e SPRING</p>
@@ -148,7 +147,7 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/greatpretender.png" width="400" height="250" align="center"/>
 </p>  
 
 <h2 align="center">Jaia</h2>
