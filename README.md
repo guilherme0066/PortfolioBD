@@ -1,5 +1,5 @@
 # Portfolio das APIs - Guilherme Alves Cursino
-Repositório dedicado para a documentação dos APIs realizados no curso de Análise e Desenvolvimento de Sistemas, orientado pelos professores Fernando Masanori e Emanuel Mineda.
+Repositório dedicado para a documentação dos APIs realizados no curso de Análise e Desenvolvimento de Sistemas e Banco de Dados, orientado pela professora Juliana Forin Pasquini Martinez.
 
 # Introdução
 Me chamo Guilherme, tenho 21 anos e atualmente estou cursando banco de Dados na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
