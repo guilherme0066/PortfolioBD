@@ -41,8 +41,10 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 </p>  
 
 <h3> :dart: Objetivos do Projeto</h2>
-<p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
+<p>Sistema web desenvolvido para uma creche, com o objetivo de realizar cadastros de Voluntários e Projetos instituicionais. </p>
 
+<h3> Prévia da Solução </h3>
+<p> Como solução, foi planejado um site web com duas interfaces de uso. A primeira seria uma área reservada para os gerenciamento de voluntários e projetos, com as principais funções de cadastro, alteração e deleção e a outra área concernente a exposição de projetos em um site aberto ao público.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent1.png"/>
@@ -55,6 +57,10 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 
 # Contribuições Pessoais
 As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde, junto com meu colega Gabriel Ramos, desenvolvi parte das telas do projeto, como o cadastro de usuários e o cadastro de projetos, tanto na estilização quanto na criação dos componentes, utilizando as linguagens JavaScript, HTML e CSS.
+<ul>
+    <li>Criação de telas de Cadastro</li>
+    <li>Desenvolvimento do portfolio do site.</li>
+</ul>
 
 # Hard Skills
 
@@ -63,7 +69,6 @@ As minhas contribuições no primeiro API foram focadas mais na parte do Front-e
 - CSS: Sei fazer com autonomia
 
 # Soft Skills 
-
 
 * Trabalho em equipe:
 Apesar de um pouco de dificuldade, principalmente por conta da adaptação à faculdade, consegui desenvolver essa parte onde tinha pontos a serem desenvolvidos, graças aos meus colegas de equipe. Aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
@@ -82,7 +87,10 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
  Link para acesso ao github: (https://github.com/gbrramos/API_ADS_2021_2)
 
 <h3> :dart: Objetivos do Projeto</h2>
-<p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
+<p>Aplicação Web para emissão de relatórios mensais do quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
+
+<h3> Prévia da Solução </h3>
+<p> Como solução foi estruturado um site, para realizar os cadastros de colaborades e postos de trabalho. O site também possui um quadro de colaboradores, com um sistema de contigências para possíveis alterações no quadro. Por fim, pelo site também é possível gerar relatórios e dahsboards para garantir o acompanhamento.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent2.png"/>
@@ -102,7 +110,6 @@ As minhas contribuições no segundo API foram focadas mais na parte do back-end
 
 # Soft Skills 
 
-
 * Trabalho em equipe:
 Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes na equipe, além de ainda ter sido realizado de forma remota por conta da pandemia, o trabalho em equipe foi um grande desafio, mas consegui desenvolver essa parte que tinha problemas. Graças aos professores, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
 
@@ -119,7 +126,10 @@ Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes
 Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus)
 
 <h3> :dart: Objetivos do Projeto</h3>
-<p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
+<p>Sistema Web desenvolvido para coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo, a fim de salvar essas informações no banco de dados para eventuais consultas e análises técnicas/financeiras, que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.</p>
+
+<h3> Prévia da Solução </h3>
+<p>Desenvolver um site responsivo para cadastro de faturas, clientes e contratos dos fornecimentos de energia e água e fornecendo relatórios de  pós cadastro, para emissão de alertas de alta demanda de consumo e alto preço.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent3.png" width="800"/>
@@ -141,7 +151,9 @@ As minhas contribuições no terceiro API foram focadas mais na parte do Front-e
 # Soft Skills 
 
 * Organização, Controle de tempo e Tarefas:
-Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API, bem como a projetos/tarefas de outras matérias do curso. 
+Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API, bem como a projetos/tarefas de outras matérias do curso.
+* Comunicação:
+Consegui melhorar a minha comunicação pois seria o primeiro projeto pós pandemia e conheceria os novos colegas de equipe presencialmente.
 
 # 2023 - 2/ Quarto Semestre
 
@@ -155,7 +167,10 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-API/tree/main)
 
 <h3> :dart: Objetivos do Projeto</h3>
-<p>Um Sistema desenvolvido para controlar o estado de um imóvel em, com os resultados exportados num Laudo de Inspeção Predial, além de gerenciar manutenções preventivas e corretivas de não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos.</p>
+<p>Aplicação que gerencia anomalias apontadas em um Laudo de Inspeção Predial e otimiza a determinação de manutenções preventivas e corretivas, baseada nas não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos.</p>
+
+<h3> Prévia da Solução </h3>
+<p> Desenvolver um site para emissão de laudos prediais, gerenciamento de ordens de serviço e controle de usuários, serviços e setores.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <p align="center">
@@ -163,7 +178,6 @@ Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-A
     <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,typescript,discord,mysql" />
   </a>
 </p>
-
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS E TYPESCRIPT</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: JAVA, SPRINGBOOT E MAVEN</p>
