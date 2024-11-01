@@ -2,11 +2,11 @@
 Repositório dedicado para a documentação dos APIs realizados no curso de Análise e Desenvolvimento de Sistemas e Banco de Dados, orientado pela professora Juliana Forin Pasquini Martinez.
 
 # Introdução
-Me chamo Guilherme, tenho 21 anos e atualmente estou cursando banco de Dados na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
+Me chamo Guilherme, tenho 22 anos e atualmente estou cursando banco de Dados na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
 
 Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me aprofundando mais com a parte de Front-end, onde busco adquirir mais conhecimento.
 
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/FotoGuilherme.png">
+<p align="center"><img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/FotoGuilherme.png" width="30%"></p>
 
 # Contatos 
 - GitHub: [***GitHub***](https://github.com/guilherme0066)
@@ -15,10 +15,11 @@ Durante esses anos na área de TI, passei por diversas experiências na área de
 
 # Meus Principais Conhecimentos
 
-Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos em CSS, HTML, JavaScript e TypeScript, além do framework React.
+Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos em CSS, HTML, Python, JavaScript e TypeScript, além do framework React.
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -169,7 +170,7 @@ Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-A
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Aplicação que gerencia anomalias apontadas em um Laudo de Inspeção Predial e otimiza a determinação de manutenções preventivas e corretivas, baseada nas não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos.</p>
 
-<h3> Prévia da Solução </h3>
+<h3> Solução </h3>
 <p> Desenvolver um site para emissão de laudos prediais, gerenciamento de ordens de serviço e controle de usuários, serviços e setores.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -198,3 +199,57 @@ As minhas contribuições no quarto API foram focadas mais na parte do Front-end
 
 * Organização, Controle de tempo e Tarefas:
 Um dos grandes problemas que precisei resolver no quarto semestre foi a questão da organização em relação a tarefas relacionadas ao API devido a troca de curso que realizei, vindo do curso de ADS do período da manhã, bem como a projetos/tarefas de outras matérias do curso.
+
+
+# 2024 - 1/ Quinto Semestre
+
+<h3 align="center">Projeto desenvolvido por:</h3>
+<p align="center">
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/quarks.png" width="400" height="350" align="center"/>
+</p> 
+
+<h3> :dart: Objetivos do Projeto</h3>
+<p align="justify"> A TecSUS é uma empresa especializada na coleta e processamento de contas de energia, água e gás, e que atende empresas dos setores atacadista e varejista. Devido ao grande volume de dados coletados, é necessário visibilidades para observar e atuar em redução de custos e alteração de contratos. O desafio consistia em desenvolver ferramentas de visualização de dados para organizar e explorar melhor os dados acerca das faturas, visando a otimização de análises e serviços para a empresa e seus clientes.</p>
+
+<h3> Solução </h3>
+<p align="justify">Como solução, foi proposto o desenvolvimento de um dashboard web de alta complexidade, para análise e exibição de dados de faturas de energia e água, com o objetivo de atender a necessidade de visualização apurada das informações e visando a redução de custos e otimização de contratos. O sistema também tinha como proposta, o carregamento de arquivos csv e tratamento de tais, para proporcionar ao usuário um método ágil de visualizar, através de dashboards, as novas informações coletadas.</p>
+<p>Link do Repositório: <a href="https://github.com/quarks-team/Projeto-Integrador-TecSUS">Quarks-API</a></p>
+
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,html,css,typescript,nestjs,mysql,vitest,jest,discord" />
+  </a>
+</p>
+
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS, HTML, CSS E TYPESCRIPT</p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: TYPESCRIPT E NEST</p>
+<p>Para a criação do banco de dados do projeto, foram utilizadas as tecnologia: SQL E MYSQL</p>
+<p>Para a criação dos testse do projeto, foram utilizadas as tecnologia:  VITEST E JEST</p>
+<p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
+
+# Contribuições Pessoais
+As minhas contribuições no quinto API foram focadas mais na parte do Front-end, onde desenvolvi parte dos scripts para a transformação dos dados e as telas onde foram mostrados os dashboards com a visualização dos dados. 
+
+Para as atividades de Front foram utilizados Vue.js, CSS, Typescript. 
+
+
+Por fim, nesse projeto também havia o desafio de aplicar a cultura Devops ao longo do mesmo. Nesse contexto, desenvolvi a rotina de testes unitários e sua documentação, para que qualquer integrante da equipe ou um novo membro pudesse desenvolver já ciente dos procedimentos de testes unitários no projeto.
+
+Para os testes foi utilizado o Vitest no Front-nd e o Jest no Back-end.
+<p>Link para a Documentação: <a href="https://github.com/quarks-team/Projeto-Integrador-TecSUS/wiki">Documentação Completa</a></p>
+
+# Hard Skills
+
+- Vue.js: Sei fazer com auxílio de consultas a sites, documentações, etc
+- Typescript: Sei fazer com auxílio de consultas a sites, documentações, etc
+- Vitest: Sei fazer com auxílio de consultas a sites, documentações, etc
+- Jest: Sei fazer com auxílio de consultas a sites, documentações, etc
+- HTML: Sei fazer com autonomia
+- CSS: Sei fazer com autonomia
+
+# Soft Skills 
+
+* Organização, Controle de tempo e Tarefas:
+Em questão de organização eu tive uma grande evolução em comparação com os outros projetos pois consegui administrar bem melhor o meu tempo, mesmo tendo atividades de outras matérias e tambem o meu estágio que foi realizado nesse período. Consegui gerir bem o tempo que tinha em casa e tambem o tempo das aulas para realizar minhas tasks. Consegui tambem ter uma maior autonomia pra realizar minhas tarefas já que além dos scripts eu tambem teria que realizar os teste que foram uma novidade para mim, mas no fim acabou dando tudo certo.
+
