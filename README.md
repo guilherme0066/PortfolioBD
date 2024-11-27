@@ -17,15 +17,11 @@ Durante esses anos na área de TI, passei por diversas experiências na área de
 
 Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos em CSS, HTML, Python, JavaScript e TypeScript, além do framework React.
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
- </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,python,javascript,typescript,react" />
+  </a>
+</p>
 
  # Meus Projetos
 
@@ -48,7 +44,11 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 <p> Como solução, foi planejado um site web com duas interfaces de uso. A primeira seria uma área reservada para os gerenciamento de voluntários e projetos, com as principais funções de cadastro, alteração e deleção e a outra área concernente a exposição de projetos em um site aberto ao público.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent1.png"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,php,javascript,html,laravel,mysql" />
+  </a>
+</p>
 <hr>
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS, HTML e JAVASCRIPT</p>
@@ -94,11 +94,15 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 <p> Como solução foi estruturado um site, para realizar os cadastros de colaborades e postos de trabalho. O site também possui um quadro de colaboradores, com um sistema de contigências para possíveis alterações no quadro. Por fim, pelo site também é possível gerar relatórios e dahsboards para garantir o acompanhamento.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent2.png"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,python,javascript,html,bootstrap,django,mysql,jquery" />
+  </a>
+</p>
 
-<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML, JAVASCRIPT e BOOTSTRAP</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: PYTHON e DJANGO</p>
-<p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: MYSQL e JQYERY</h3>
+<p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: MYSQL e JQUERY</h3>
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
@@ -133,9 +137,13 @@ Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus
 <p>Desenvolver um site responsivo para cadastro de faturas, clientes e contratos dos fornecimentos de energia e água e fornecendo relatórios de  pós cadastro, para emissão de alertas de alta demanda de consumo e alto preço.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/ent3.png" width="800"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,java,javascript,html,bootstrap,spring,postgresql" />
+  </a>
+</p>
 
-<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML, JAVASCRIPT e BOOTSTRAP</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: JAVA e SPRING</p>
 <p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: POSTGRESQL</h3>
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
@@ -225,7 +233,7 @@ Um dos grandes problemas que precisei resolver no quarto semestre foi a questão
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS, HTML, CSS E TYPESCRIPT</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: TYPESCRIPT E NEST</p>
 <p>Para a criação do banco de dados do projeto, foram utilizadas as tecnologia: SQL E MYSQL</p>
-<p>Para a criação dos testse do projeto, foram utilizadas as tecnologia:  VITEST E JEST</p>
+<p>Para a criação dos testes do projeto, foram utilizadas as tecnologia:  VITEST E JEST</p>
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
@@ -253,3 +261,39 @@ Para os testes foi utilizado o Vitest no Front-nd e o Jest no Back-end.
 * Organização, Controle de tempo e Tarefas:
 Em questão de organização eu tive uma grande evolução em comparação com os outros projetos pois consegui administrar bem melhor o meu tempo, mesmo tendo atividades de outras matérias e tambem o meu estágio que foi realizado nesse período. Consegui gerir bem o tempo que tinha em casa e tambem o tempo das aulas para realizar minhas tasks. Consegui tambem ter uma maior autonomia pra realizar minhas tarefas já que além dos scripts eu tambem teria que realizar os teste que foram uma novidade para mim, mas no fim acabou dando tudo certo.
 
+# 2024 - 2/ Sexto Semestre
+
+<h3 align="center">Projeto desenvolvido por:</h3>
+<p align="center">
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/quarks.png" width="400" height="350" align="center"/>
+</p> 
+
+<h3> :dart: Objetivos do Projeto</h3>
+<p align="justify"> Fomos contratados por um registro de ativos financeiros (SPC Grafeno) para desenvolver novos produtos financeiros inovadores utilizando técnicas de aprendizado de máquina. A empresa forneceu uma base de dados diversificada contendo informações históricas sobre uma variedade de ativos financeiros, transações e comportamentos de mercado.</p>
+
+<h3> Solução </h3>
+<p align="justify">Propomos desenvolver um sistema que analisa a confiabilidade de um endossante utilizando algoritmos e modelos de IA. Esse sistema gerará um escore que reflete o quanto uma empresa mantém seu compromisso com o crédito. Dado que ter uma fatura geralmente garante que o valor contratado no adiantamento será pago, nossa solução visa aprimorar o processo de avaliação tanto para a empresa quanto para seus clientes.</p>
+<p>Link do Repositório: <a href="https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno">Quarks-API</a></p>
+
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,postgresql,vue,python,docker,mongodb" />
+  </a>
+</p>
+
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: ... </p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: ... </p>
+<p>Para a criação do banco de dados do projeto, foram utilizadas as tecnologia: ... </p>
+<p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
+
+# Contribuições Pessoais
+Novamente fiquei com a parte de ETLs do projeto, pois como já havia feito no trabalho anterior resolvi me aprofundar um pouco mais nesse parte. tambem fiz um dos DDL que seriam usados para os resultados da nossa IA de score, além disso tambem fiquei com o processo de transformação e inserção dos dados da nossa IA de predição de duplicatas já que para gerar um resultado que fosse interessante para a medição eu deveria usar algumas métricas e gerar alguns dados baseados em algumas colunas das bases de dados que recebemos.
+
+# Hard Skills
+- Python: Sei fazer com auxílio de consultas a sites, documentações, etc
+
+# Soft Skills 
+
+* Organização, Controle de tempo e Tarefas:
+Em questão de organização eu diria que foi o projeto que eu tive o melhor desempenho nesse ponto já que eram tarefas que eu já possuia uma familiaridade devido aos projetos anteriores. Já em questão de controle de tempo e de tarefas eu tambem considero um avanço considerável pois além de precisar de um entendimento sobre as métricas que foram impostas e as tecnologias que seriam implementadas na parte em que eu estava atuando. Ao final do projeto conseguimos um resultado tanto da entregas quanto do projeto final. 
