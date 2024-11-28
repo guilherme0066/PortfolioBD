@@ -165,12 +165,12 @@ Consegui melhorar a minha comunicação pois seria o primeiro projeto pós pande
 
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/greatpretender.png" width="400" height="250" align="center"/>
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/greatpretender.png" width="300" height="200" align="center"/>
 </p>  
 
 <h2 align="center">Jaia</h2>
 
-Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-API/tree/main)
+Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-API)
 
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Aplicação que gerencia anomalias apontadas em um Laudo de Inspeção Predial e otimiza a determinação de manutenções preventivas e corretivas, baseada nas não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos.</p>
@@ -210,7 +210,7 @@ Um dos grandes problemas que precisei resolver no quarto semestre foi a questão
 
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/quarks.png" width="400" height="350" align="center"/>
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/quarks.png" width="300" height="200" align="center"/>
 </p> 
 
 <h3> :dart: Objetivos do Projeto</h3>
@@ -262,7 +262,7 @@ Em questão de organização eu tive uma grande evolução em comparação com o
 
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
-<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/quarks.png" width="400" height="350" align="center"/>
+<img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/quarks.png" width="300" height="200" align="center"/>
 </p> 
 
 <h3> :dart: Objetivos do Projeto</h3>
