@@ -25,15 +25,11 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 
  # Meus Projetos
 
- 2021 - 1 [PROJETO INSTITUTO VÓ MARIA FÉLIX](https://github.com/UniversalDevs/Projeto_API_VoMariaFelix/blob/main/README.md)
+ # 2021 - 1/ Primeriro Semestre 
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
-</p>  
-
-<hr>
-<p align="center">
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="100" />
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="300" height="250" align="center"/>
+  <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="130" align="center"/>
   <h3 align="center">Instituto Vó Maria Félix</h3>
 </p>  
 
@@ -42,6 +38,7 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 
 <h3> Prévia da Solução </h3>
 <p> Como solução, foi planejado um site web com duas interfaces de uso. A primeira seria uma área reservada para os gerenciamento de voluntários e projetos, com as principais funções de cadastro, alteração e deleção e a outra área concernente a exposição de projetos em um site aberto ao público.</p>
+Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_VoMariaFelix)
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <p align="center">
@@ -278,13 +275,13 @@ Em questão de organização eu tive uma grande evolução em comparação com o
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,postgresql,vue,python,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,postgresql,vue,python,docker,mongodb" />
   </a>
 </p>
 
-<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: ... </p>
-<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: ... </p>
-<p>Para a criação do banco de dados do projeto, foram utilizadas as tecnologia: ... </p>
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS, JAVASCRIPT </p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: TYPESCRIPT, NODE.JS, PYTHON </p>
+<p>Para a criação do banco de dados do projeto, foram utilizadas as tecnologia: MONGODB e POSTGRESQL </p>
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
