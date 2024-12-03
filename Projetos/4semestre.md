@@ -41,3 +41,14 @@ Minhas contribuições foram direcionadas ao Front-end, onde trabalhei na criaç
 
 * Organização, Controle de tempo e Tarefas:
 Um dos grandes problemas que precisei resolver no quarto semestre foi a questão da organização em relação a tarefas relacionadas ao API devido a troca de curso que realizei, vindo do curso de ADS do período da manhã, bem como a projetos/tarefas de outras matérias do curso.
+
+## Menu de Navegação
+
+- [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
+- [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
+
+Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
