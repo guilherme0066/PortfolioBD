@@ -1,10 +1,10 @@
-# Portfolio das APIs - Guilherme Alves Cursino
-Repositório dedicado para a documentação dos APIs realizados no curso de Análise e Desenvolvimento de Sistemas e Banco de Dados, orientado pela professora Juliana Forin Pasquini Martinez.
+# Portfólio das APIs - Guilherme Alves Cursino
+Repositório dedicado à documentação das APIs realizadas no curso de Análise e Desenvolvimento de Sistemas e Banco de Dados, orientado pela professora Juliana Forin Pasquini Martinez.
 
 # Introdução
-Me chamo Guilherme, tenho 22 anos e atualmente estou cursando banco de Dados na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
+Me chamo Guilherme, tenho 22 anos e atualmente estou cursando Banco de Dados na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
 
-Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me aprofundando mais com a parte de Front-end, onde busco adquirir mais conhecimento.
+Durante esses anos na área de TI, passei por diversas experiências em desenvolvimento. Aprendi linguagens como Java, C++, Python, JavaScript, entre outras. Acabei me aprofundando mais na parte de Front-end, onde busco adquirir mais conhecimento.
 
 <p align="center"><img src="https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Imagens/FotoGuilherme.png" width="30%"></p>
 
@@ -15,7 +15,7 @@ Durante esses anos na área de TI, passei por diversas experiências na área de
 
 # Meus Principais Conhecimentos
 
-Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos em CSS, HTML, Python, JavaScript e TypeScript, além do framework React.
+Como tenho mais foco na parte de Front-end, desenvolvi conhecimentos em CSS, HTML, Python, JavaScript e TypeScript, além do framework React.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,10 +34,10 @@ Como tenho mais foco na parte de Front-end, acabei desenvolvendo conhecimentos e
 </p>  
 
 <h3> :dart: Objetivos do Projeto</h2>
-<p>Sistema web desenvolvido para uma creche, com o objetivo de realizar cadastros de Voluntários e Projetos instituicionais. </p>
+<p>Sistema web desenvolvido para uma creche, com o objetivo de realizar cadastros de voluntários e projetos institucionais. </p>
 
 <h3> Prévia da Solução </h3>
-<p> Como solução, foi planejado um site web com duas interfaces de uso. A primeira seria uma área reservada para os gerenciamento de voluntários e projetos, com as principais funções de cadastro, alteração e deleção e a outra área concernente a exposição de projetos em um site aberto ao público.</p>
+<p>Foi planejado um site web com duas interfaces de uso. A primeira seria uma área reservada para o gerenciamento de voluntários e projetos, com as principais funções de cadastro, alteração e deleção. A segunda seria destinada à exposição de projetos em um site aberto ao público.</p>
 Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_VoMariaFelix)
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -54,7 +54,7 @@ Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_VoMari
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde, junto com meu colega Gabriel Ramos, desenvolvi parte das telas do projeto, como o cadastro de usuários e o cadastro de projetos, tanto na estilização quanto na criação dos componentes, utilizando as linguagens JavaScript, HTML e CSS.
+Minhas contribuições no primeiro API focaram na parte do Front-end. Trabalhei com meu colega Gabriel Ramos para desenvolver parte das telas do projeto, como o cadastro de usuários e o cadastro de projetos. Atuei na estilização e na criação dos componentes usando JavaScript, HTML e CSS.
 <ul>
     <li>Criação de telas de Cadastro</li>
     <li>Desenvolvimento do portfolio do site.</li>
@@ -85,10 +85,10 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
  Link para acesso ao github: (https://github.com/gbrramos/API_ADS_2021_2)
 
 <h3> :dart: Objetivos do Projeto</h2>
-<p>Aplicação Web para emissão de relatórios mensais do quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
+<p>Desenvolver uma aplicação web para emissão de relatórios mensais do quadro de presença de colaboradores em postos de trabalho acordados em contrato, voltada para uma empresa de terceirização de serviços. </p>
 
 <h3> Prévia da Solução </h3>
-<p> Como solução foi estruturado um site, para realizar os cadastros de colaborades e postos de trabalho. O site também possui um quadro de colaboradores, com um sistema de contigências para possíveis alterações no quadro. Por fim, pelo site também é possível gerar relatórios e dahsboards para garantir o acompanhamento.</p>
+<p> Foi estruturado um site para realizar o cadastro de colaboradores e postos de trabalho. O site possui um quadro de colaboradores com um sistema de contingências para possíveis alterações. Além disso, é possível gerar relatórios e dashboards para acompanhamento.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <p align="center">
@@ -103,7 +103,7 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no segundo API foram focadas mais na parte do back-end, onde, junto com meus colegas Gabriel Ramos e Dante Silva, desenvolvi parte dos cadastros de usuários, clientes e colaboradores e também integrei o back-end ao front-end, utilizando a linguagem Python e o framework Django.
+Neste projeto, minhas contribuições foram mais focadas no back-end. Trabalhei com os colegas Gabriel Ramos e Dante Silva para desenvolver o cadastro de usuários, clientes e colaboradores, além de integrar o back-end com o front-end utilizando Python e o framework Django.
 
 # Hard Skills
 
@@ -128,10 +128,10 @@ Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes
 Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus)
 
 <h3> :dart: Objetivos do Projeto</h3>
-<p>Sistema Web desenvolvido para coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo, a fim de salvar essas informações no banco de dados para eventuais consultas e análises técnicas/financeiras, que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.</p>
+<p>Desenvolver um sistema web para coleta e processamento de contas de energia, água e gás, permitindo salvar essas informações no banco de dados para consultas e análises técnicas e financeiras. Essas análises possibilitam oportunidades de redução de custos e alterações contratuais.</p>
 
 <h3> Prévia da Solução </h3>
-<p>Desenvolver um site responsivo para cadastro de faturas, clientes e contratos dos fornecimentos de energia e água e fornecendo relatórios de  pós cadastro, para emissão de alertas de alta demanda de consumo e alto preço.</p>
+<p>Um site responsivo foi criado para o cadastro de faturas, clientes e contratos de fornecimento de energia e água. O sistema oferece relatórios e alertas pós-cadastro, como notificações de alta demanda de consumo e preços elevados.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <p align="center">
@@ -146,7 +146,7 @@ Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no terceiro API foram focadas mais na parte do Front-end, onde, junto com o meu colega Felipe Augusto, desenvolvi parte das telas do projeto, como o cadastro de contas de energia e água e o cadastro para o controle de contas, tanto na estilização quanto na criação dos componentes, utilizando as linguagens JavaScript, HTML e CSS.
+Minhas contribuições foram voltadas ao Front-end, trabalhando junto ao colega Felipe Augusto no desenvolvimento de telas, como o cadastro de contas de energia e água. Atuei também na criação de componentes e estilização utilizando JavaScript, HTML e CSS.
 
 # Hard Skills
 
@@ -173,10 +173,10 @@ Consegui melhorar a minha comunicação pois seria o primeiro projeto pós pande
 Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-API)
 
 <h3> :dart: Objetivos do Projeto</h3>
-<p>Aplicação que gerencia anomalias apontadas em um Laudo de Inspeção Predial e otimiza a determinação de manutenções preventivas e corretivas, baseada nas não conformidades que possam estar colocando em risco um patrimônio, garantindo assim a segurança, qualidade e manutençao ou gerenciamento de riscos.</p>
+<p>Aplicação para gerenciamento de anomalias detectadas em Laudos de Inspeção Predial. O sistema otimiza a determinação de manutenções preventivas e corretivas, garantindo a segurança, qualidade e o gerenciamento de riscos.</p>
 
-<h3> Solução </h3>
-<p> Desenvolver um site para emissão de laudos prediais, gerenciamento de ordens de serviço e controle de usuários, serviços e setores.</p>
+<h3> Prévia da Solução </h3>
+<p> Foi desenvolvido um site para emissão de laudos prediais, gerenciamento de ordens de serviço e controle de usuários, serviços e setores.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <p align="center">
@@ -191,7 +191,7 @@ Link para acesso ao github: (https://github.com/Great-Pretender/GreatPretender-A
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no quarto API foram focadas mais na parte do Front-end, onde desenvolvi parte das telas do projeto e o cadastro para o controle de contas, tanto na estilização quanto na criação dos componentes, utilizando as linguagens Vue.js e CSS.
+Minhas contribuições foram direcionadas ao Front-end, onde trabalhei na criação de telas e no cadastro para controle de contas. Usei as tecnologias Vue.js e CSS para estilização e componentes.
 
 # Hard Skills
 
@@ -214,10 +214,10 @@ Um dos grandes problemas que precisei resolver no quarto semestre foi a questão
 </p> 
 
 <h3> :dart: Objetivos do Projeto</h3>
-<p align="justify"> A TecSUS é uma empresa especializada na coleta e processamento de contas de energia, água e gás, e que atende empresas dos setores atacadista e varejista. Devido ao grande volume de dados coletados, é necessário visibilidades para observar e atuar em redução de custos e alteração de contratos. O desafio consistia em desenvolver ferramentas de visualização de dados para organizar e explorar melhor os dados acerca das faturas, visando a otimização de análises e serviços para a empresa e seus clientes.</p>
+<p align="justify"> Desenvolver ferramentas de visualização de dados para análise e exibição de faturas de energia, água e gás, otimizando custos e contratos.</p>
 
-<h3> Solução </h3>
-<p align="justify">Como solução, foi proposto o desenvolvimento de um dashboard web de alta complexidade, para análise e exibição de dados de faturas de energia e água, com o objetivo de atender a necessidade de visualização apurada das informações e visando a redução de custos e otimização de contratos. O sistema também tinha como proposta, o carregamento de arquivos csv e tratamento de tais, para proporcionar ao usuário um método ágil de visualizar, através de dashboards, as novas informações coletadas.</p>
+<h3> Prévia da Solução </h3>
+<p align="justify">Foi criado um dashboard web de alta complexidade para exibição de dados coletados. O sistema permite carregar e tratar arquivos CSV, além de oferecer dashboards com informações detalhadas.</p>
 <p>Link do Repositório: <a href="https://github.com/quarks-team/Projeto-Integrador-TecSUS">Quarks-API</a></p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -234,14 +234,7 @@ Um dos grandes problemas que precisei resolver no quarto semestre foi a questão
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no quinto API foram focadas mais na parte do Front-end, onde desenvolvi parte dos scripts para a transformação dos dados e as telas onde foram mostrados os dashboards com a visualização dos dados. 
-
-Para as atividades de Front foram utilizados Vue.js, CSS, Typescript. 
-
-
-Por fim, nesse projeto também havia o desafio de aplicar a cultura Devops ao longo do mesmo. Nesse contexto, desenvolvi a rotina de testes unitários e sua documentação, para que qualquer integrante da equipe ou um novo membro pudesse desenvolver já ciente dos procedimentos de testes unitários no projeto.
-
-Para os testes foi utilizado o Vitest no Front-nd e o Jest no Back-end.
+Fui responsável por desenvolver scripts para transformação de dados e as telas para visualização nos dashboards. Também implementei testes unitários no projeto, documentando a rotina para que outros membros pudessem seguir.
 <p>Link para a Documentação: <a href="https://github.com/quarks-team/Projeto-Integrador-TecSUS/wiki">Documentação Completa</a></p>
 
 # Hard Skills
@@ -266,10 +259,21 @@ Em questão de organização eu tive uma grande evolução em comparação com o
 </p> 
 
 <h3> :dart: Objetivos do Projeto</h3>
-<p align="justify"> Fomos contratados por um registro de ativos financeiros (SPC Grafeno) para desenvolver novos produtos financeiros inovadores utilizando técnicas de aprendizado de máquina. A empresa forneceu uma base de dados diversificada contendo informações históricas sobre uma variedade de ativos financeiros, transações e comportamentos de mercado.</p>
+<p align="justify"> Fomos contratados pela SPC Grafeno para desenvolver novos produtos financeiros inovadores utilizando técnicas de aprendizado de máquina. O objetivo principal é explorar uma base de dados diversificada, contendo informações históricas sobre ativos financeiros, transações e comportamentos de mercado, com a finalidade de:
 
-<h3> Solução </h3>
-<p align="justify">Propomos desenvolver um sistema que analisa a confiabilidade de um endossante utilizando algoritmos e modelos de IA. Esse sistema gerará um escore que reflete o quanto uma empresa mantém seu compromisso com o crédito. Dado que ter uma fatura geralmente garante que o valor contratado no adiantamento será pago, nossa solução visa aprimorar o processo de avaliação tanto para a empresa quanto para seus clientes.</p>
+- Prever tendências de mercado
+- Identificar riscos financeiros
+- Propor métodos de avaliação de ativos
+- O projeto visa criar soluções que tragam valor tanto para a SPC Grafeno quanto para seus clientes
+</p>
+
+<h3> Prévia da Solução </h3>
+<p align="justify">A solução proposta envolve o uso de aprendizado de máquina para analisar a base de dados e identificar padrões e oportunidades. A partir disso, desenvolveremos um ou mais produtos financeiros. O protótipo final incluirá:
+
+- Uma descrição detalhada do modelo de aprendizado de máquina utilizado.
+- Justificativa para a escolha das técnicas empregadas.
+- Avaliação de desempenho do modelo.
+- Ao final do projeto, apresentaremos os resultados em um relatório, complementado por uma apresentação que explicará como nossa solução pode ser aplicada pela SPC Grafeno e os benefícios que ela pode oferecer à empresa e seus clientes.</p>
 <p>Link do Repositório: <a href="https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno">Quarks-API</a></p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -285,7 +289,7 @@ Em questão de organização eu tive uma grande evolução em comparação com o
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-Novamente fiquei com a parte de ETLs do projeto, pois como já havia feito no trabalho anterior resolvi me aprofundar um pouco mais nesse parte. tambem fiz um dos DDL que seriam usados para os resultados da nossa IA de score, além disso tambem fiquei com o processo de transformação e inserção dos dados da nossa IA de predição de duplicatas já que para gerar um resultado que fosse interessante para a medição eu deveria usar algumas métricas e gerar alguns dados baseados em algumas colunas das bases de dados que recebemos.
+Novamente, foquei na parte de ETLs, desenvolvendo scripts para transformação e inserção de dados no banco. Também implementei um DDL usado para armazenar os resultados da IA de score.
 
 # Hard Skills
 - Python: Sei fazer com auxílio de consultas a sites, documentações, etc
