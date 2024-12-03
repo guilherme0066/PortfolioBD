@@ -49,7 +49,7 @@ Em questão de organização eu tive uma grande evolução em comparação com o
 - [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
 - [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
 - [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
-- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados)
 - [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
 
 Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
