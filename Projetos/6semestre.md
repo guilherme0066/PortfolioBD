@@ -45,3 +45,14 @@ Novamente, foquei na parte de ETLs, desenvolvendo scripts para transformação e
 
 * Organização, Controle de tempo e Tarefas:
 Em questão de organização eu diria que foi o projeto que eu tive o melhor desempenho nesse ponto já que eram tarefas que eu já possuia uma familiaridade devido aos projetos anteriores. Já em questão de controle de tempo e de tarefas eu tambem considero um avanço considerável pois além de precisar de um entendimento sobre as métricas que foram impostas e as tecnologias que seriam implementadas na parte em que eu estava atuando. Ao final do projeto conseguimos um resultado tanto da entregas quanto do projeto final. 
+
+## Menu de Navegação
+
+- [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
+- [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+
+Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
