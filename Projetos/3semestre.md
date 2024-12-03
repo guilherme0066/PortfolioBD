@@ -42,3 +42,14 @@ Minhas contribuições foram voltadas ao Front-end, trabalhando junto ao colega 
 Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API, bem como a projetos/tarefas de outras matérias do curso.
 * Comunicação:
 Consegui melhorar a minha comunicação pois seria o primeiro projeto pós pandemia e conheceria os novos colegas de equipe presencialmente.
+
+## Menu de Navegação
+
+- [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
+- [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
+
+Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
