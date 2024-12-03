@@ -25,12 +25,12 @@ Como tenho mais foco na parte de Front-end, desenvolvi conhecimentos em CSS, HTM
 
  ## Menu de Navegação
 
-- [2021 - 1º Semestre](./1semestre.md)
-- [2021 - 2º Semestre](./2semestre.md)
-- [2022 - 1º Semestre](./3semestre.md)
-- [2023 - 2º Semestre](./4semestre.md)
-- [2024 - 1º Semestre](./5semestre.md)
-- [2024 - 2º Semestre](./6semestre.md)
+- [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
+- [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
+- [2022 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
 
 Escolha o semestre para acessar os detalhes dos projetos realizados.
 
