@@ -41,7 +41,7 @@ Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes
 ## Menu de Navegação
 
 - [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
-- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados)
 - [2022 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
 - [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
 - [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
