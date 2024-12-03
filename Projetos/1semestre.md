@@ -45,3 +45,14 @@ Apesar de um pouco de dificuldade, principalmente por conta da adaptação à fa
 
 * Comunicação:
 Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação foi um grande desafio. Foi necessário usar ferramentas como Teams e Discord para que conseguíssemos desenvolver nosso projeto.
+
+## Menu de Navegação
+
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
+- [2022 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
+
+Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
