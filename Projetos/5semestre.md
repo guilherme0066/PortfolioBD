@@ -42,3 +42,14 @@ Fui responsável por desenvolver scripts para transformação de dados e as tela
 
 * Organização, Controle de tempo e Tarefas:
 Em questão de organização eu tive uma grande evolução em comparação com os outros projetos pois consegui administrar bem melhor o meu tempo, mesmo tendo atividades de outras matérias e tambem o meu estágio que foi realizado nesse período. Consegui gerir bem o tempo que tinha em casa e tambem o tempo das aulas para realizar minhas tasks. Consegui tambem ter uma maior autonomia pra realizar minhas tarefas já que além dos scripts eu tambem teria que realizar os teste que foram uma novidade para mim, mas no fim acabou dando tudo certo.
+
+## Menu de Navegação
+
+- [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
+- [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
+
+Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
