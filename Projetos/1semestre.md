@@ -48,7 +48,7 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 
 ## Menu de Navegação
 
-- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados)
 - [2021 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/2semestre.md)
 - [2022 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
 - [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
