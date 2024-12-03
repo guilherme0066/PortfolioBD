@@ -53,6 +53,6 @@ Em questão de organização eu diria que foi o projeto que eu tive o melhor des
 - [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
 - [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
 - [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
-- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados)
 
 Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
