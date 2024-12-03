@@ -37,3 +37,14 @@ Neste projeto, minhas contribuições foram mais focadas no back-end. Trabalhei 
 
 * Trabalho em equipe:
 Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes na equipe, além de ainda ter sido realizado de forma remota por conta da pandemia, o trabalho em equipe foi um grande desafio, mas consegui desenvolver essa parte que tinha problemas. Graças aos professores, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
+
+## Menu de Navegação
+
+- [2021 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/1semestre.md)
+- [Início](https://github.com/guilherme0066/PortfolioBanco_de_Dados/edit/main/README.md)
+- [2022 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/3semestre.md)
+- [2023 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/4semestre.md)
+- [2024 - 1º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/5semestre.md)
+- [2024 - 2º Semestre](https://github.com/guilherme0066/PortfolioBanco_de_Dados/blob/main/Projetos/6semestre.md)
+
+Escolha o semestre para acessar os detalhes dos projetos realizados ou volte a página inicial.
