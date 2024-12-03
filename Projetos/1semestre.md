@@ -2,7 +2,6 @@
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="300" height="250" align="center"/>
-  <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="130" align="center"/>
   <h3 align="center">Instituto Vó Maria Félix</h3>
 </p>  
 
